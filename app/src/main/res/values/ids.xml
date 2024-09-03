@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="et_consumo_total" type="id" />
+    <item name="et_couvert_artistico" type="id" />
+    <item name="et_num_pessoas" type="id" />
+    <item name="tv_conta_total" type="id" />
+    <item name="tv_valor_por_pessoa" type="id" />
+    <item name="btn_calcular" type="id" />
+</resources>
